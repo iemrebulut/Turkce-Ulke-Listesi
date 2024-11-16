@@ -1,7 +1,7 @@
 CREATE TABLE `countries` (
 `id` int(11) NOT NULL auto_increment,
 `name` varchar(75) NOT NULL default '',
-`country_code` varchar(75) NOT NULL default '',
+`country_code` varchar(5) NOT NULL default '',
 `phone_code` varchar(5) NOT NULL default '',
 PRIMARY KEY (`id`)
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8mb4;
