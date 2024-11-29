@@ -1188,5 +1188,25 @@
       "name": "Zimbabve",
       "phone_code": "+263",
       "country_code": "ZW"
-    }
+    },
+    {
+      "name": "Heard Adası ve McDonald Adaları",
+      "phone_code": "+672",
+      "country_code": "HM"
+    },
+    {
+      "name": "Amerikan Samoası",
+      "phone_code": "+1684",
+      "country_code": "AS"
+    },
+    {
+      "name": "Bouvet Adası",
+      "phone_code": "+47",
+      "country_code": "BV"
+    },
+    {
+      "name": "Fransız Güney ve Antarktika Toprakları",
+      "phone_code": "+262",
+      "country_code": "TF"
+    },
   ]
