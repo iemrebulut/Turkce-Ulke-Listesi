@@ -251,4 +251,9 @@ INSERT INTO `countries` (`id`, `name`, `country_code`, `phone_code`) VALUES
 (239, "Heard Adası ve McDonald Adaları", "HM", "+672"),
 (240, "Amerikan Samoası", "AS", "+1684"),
 (241, "Bouvet Adası", "BV", "+47"),
-(242, "Fransız Güney ve Antarktika Toprakları", "TF", "+262")
+(242, "Fransız Güney ve Antarktika Toprakları", "TF", "+262"),
+(243, "Saint Barthélemy", "BL", "+590"),
+(244, "Saint Helena", "SH", "+290"),
+(245, "Saint Martin", "MF", "+590"),
+(246, "Saint Pierre ve Miquelon", "PM", "+508"),
+(247, "Güney Sudan", "SS", "+211")
