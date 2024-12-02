@@ -1028,12 +1028,7 @@
       "name": "Svalbard ve Jan Mayen",
       "phone_code": "+47",
       "country_code": "SJ"
-    },
-    {
-      "name": "Svaziland",
-      "phone_code": "+268",
-      "country_code": "SZ"
-    },
+    }, 
     {
       "name": "Şili",
       "phone_code": "+56",
