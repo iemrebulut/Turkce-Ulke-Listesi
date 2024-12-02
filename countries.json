@@ -1209,4 +1209,34 @@
       "phone_code": "+262",
       "country_code": "TF"
     },
+    {
+      "name": "Saint Barthélemy",
+      "phone_code": "+590",
+      "country_code": "BL"
+    },
+    {
+      "name": "Saint Helena",
+      "phone_code": "+290",
+      "country_code": "SH"
+    },
+    {
+      "name": "Saint Martin",
+      "phone_code": "+590",
+      "country_code": "MF"
+    },
+    {
+      "name": "Saint Pierre ve Miquelon",
+      "phone_code": "+508",
+      "country_code": "PM"
+    },
+    {
+      "name": "Güney Sudan",
+      "phone_code": "+211",
+      "country_code": "SS"
+    },
+    {
+      "name": "Fransız Güney ve Antarktika Toprakları",
+      "phone_code": "+262",
+      "country_code": "TF"
+    }, 
   ]
