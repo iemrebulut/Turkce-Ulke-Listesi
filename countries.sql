@@ -248,7 +248,7 @@ INSERT INTO `countries` (`id`, `name`, `country_code`, `phone_code`) VALUES
 (236, "Yunanistan", "GR", "+30"),
 (237, "Zambiya", "ZM", "+260"),
 (238, "Zimbabve", "ZW", "+263"),
-(238, "Heard Adası ve McDonald Adaları", "HM", "+672"),
-(238, "Amerikan Samoası", "AS", "+1684"),
-(238, "Bouvet Adası", "BV", "+47"),
-(238, "Fransız Güney ve Antarktika Toprakları", "TF", "+262")
+(239, "Heard Adası ve McDonald Adaları", "HM", "+672"),
+(240, "Amerikan Samoası", "AS", "+1684"),
+(241, "Bouvet Adası", "BV", "+47"),
+(242, "Fransız Güney ve Antarktika Toprakları", "TF", "+262")
